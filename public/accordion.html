@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- javascript -->
+    <script src="js/jquery-3.6.0.js"></script>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
+    <link rel="stylesheet" href="css/styles.css">
+    <title>accordion</title>
+
+    <style>
+      button.w-full,
+      accordion {
+        outline: 0;
+      }
+
+      .active {
+        background-color: rgba(180, 180, 180, 1) !important;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="md:w-3/4 mx-auto my-auto block">
+      <button
+        class="w-full accordion outline-0 active hover:bg-gray-400 active:bg-gray-400 cursor-pointer bg-gray-300 transition duration-500 text-gray-600 p-5 border-0 text-left ">Section
+
+        1 <span class="float-right"> + </span></button>
+      <div class="panel px-5 overflow-hidden bg-white">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam, minima! Possimus vitae fuga officia! Rem at,
+          itaque illo corrupti pariatur nemo assumenda non dignissimos exercitationem necessitatibus accusantium illum
+          praesentium. Suscipit?</p>
+      </div>
+
+      <button
+        class="w-full accordion outline-0 hover:bg-gray-400 active:bg-gray-400 cursor-pointer bg-gray-300 transition duration-500 text-gray-600 p-5 border-0 text-left ">Section
+
+        2 <span class="float-right"> + </span></button>
+      <div class="panel hidden px-5 overflow-hidden bg-white">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam, minima! Possimus vitae fuga officia! Rem at,
+          itaque illo corrupti pariatur nemo assumenda non dignissimos exercitationem necessitatibus accusantium illum
+          praesentium. Suscipit?</p>
+      </div>
+
+      <button
+        class="w-full accordion outline-0 hover:bg-gray-400 active:bg-gray-400 cursor-pointer bg-gray-300 transition duration-500 text-gray-600 p-5 border-0 text-left ">Section
+
+        3 <span class="float-right"> + </span></button>
+      <div class="panel hidden px-5 overflow-hidden bg-white">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam, minima! Possimus vitae fuga officia! Rem at,
+          itaque illo corrupti pariatur nemo assumenda non dignissimos exercitationem necessitatibus accusantium illum
+          praesentium. Suscipit?</p>
+      </div>
+    </div>
+    <script>
+      $(document).ready(function () {
+        var acc = $(".accordion");
+        for (var i = 0; i < acc.length; i++) {
+          $(acc[i]).on("click", function () {
+            $(".panel").hide("slow");
+            $(acc).removeClass("active");
+            $(this).toggleClass("active").next().slideToggle("slow");
+          });
+        }
+
+      });
+    </script>
+  </body>
+
+
+</html>
