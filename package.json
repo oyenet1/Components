@@ -1,19 +1,22 @@
 {
-  "name": "tailwind",
+  "name": "i",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "css": "tailwindcss build src/styles.css -o public/css/styles.css"
+    "dev": "npx tailwindcss -i ./css/index.css -o ./dist/tailwind.css --watch"
   },
-  "author": "bowofade",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyenet1/Components.git"
+  },
+  "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "autoprefixer": "^10.2.5",
-    "postcss": "^8.2.8",
-    "tailwindcss": "^2.0.4"
+  "bugs": {
+    "url": "https://github.com/oyenet1/Components/issues"
   },
-  "dependencies": {
-    "jquery": "^3.6.0"
+  "homepage": "https://github.com/oyenet1/Components#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
   }
 }
