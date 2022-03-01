@@ -18,5 +18,8 @@
   "homepage": "https://github.com/oyenet1/Components#readme",
   "devDependencies": {
     "tailwindcss": "^3.0.23"
+  },
+  "dependencies": {
+    "alpinejs": "^3.9.0"
   }
 }
