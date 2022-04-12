@@ -1,7 +1,8 @@
 module.exports = {
+  mode: "jit",
   content: ["./*.{html,js}"],
   theme: {
     extend: {},
   },
-  plugins: [],
-}
+  plugins: [require("@tailwindcss/forms"), require("@tailwindcss/typography")],
+};
