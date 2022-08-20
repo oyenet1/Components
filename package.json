@@ -1,5 +1,5 @@
 {
-  "name": "i",
+  "name": "components",
   "version": "1.0.0",
   "description": "",
   "main": "./js/main.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/oyenet1/Components.git"
   },
-  "author": "",
+  "author": "Bowofade Oyerinde",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/oyenet1/Components/issues"
