@@ -141,4 +141,48 @@ client
 (e.g., “And that’s when the procurement director really got a
 seat at the decision-making table”).
 
-    *`continiue from 41`*
+### STORIES FOR MOTIVATION
+### FINDING YOUR PERSONAL MOTIVATION STORY
+ - _`“Sales isn’t something you do to someone. It’s something you do for someone.” In other words, if you do your job properly, you’re doing people a great service"` **zig Ziglar**_
+
+### STORIES TO RELAX AND TAKE THE STRESS OUT OF THE CALL
+  - _Over the years I’ve learned to focus on all the positives and remind myself why I’m there in the first place. One of the most valuable techniques I have—it sounds a bit crazy at first, but it makes sense—is to tell myself that I am financially independent and I don’t need this deal. I’ve found that, by adopting this mindset, I relax more and care less. Instead of living with the burden of the whole company’s future, and that of its workforce, on my shoulders, I become a gentleman of means
+indulging in some sport_
+## EXERCISE 
+  1. Find your own motivational sales story. Think about a time you went above and beyond what was expected of you and made an extraordinary difference for your client. Turn that into a story you tell yourself before every call.
+  2. Think of a story that helps you relax and takes the stress out of selling. An example would be stories that help you think of yourself as the assistant buyer instead of the salesperson (as Zig Ziglar suggested). Lanigan and Goodbody’s story about a “gentleman of means” is another good example
+
+### GETTING BUYERS TO TELL THEIR STORY
+  - _YOUR FIRST OBJECTIVE in a sales call should be to get buyers to tell you their stories, not the other way around. If you don’t hear their stories first, how will you know which of your stories to tell?_
+  - _“You wouldn’t trust a physician who walked into the examining room, spent an hour
+telling you how great he was, and then wrote a prescription, would you?” Of course not. Then why would a buyer accept the recommendation of a salesperson who did the same thing?_
+
+### FIVE WAYS TO GET BUYERS TO OPEN UP AND TELL YOU STORIES
+- **Shut Up and Listen**
+- **Ask Questions That Require a Story for an Answer**
+  - **If you ask yes or no questions, you’ll get yes or no answers. Just asking questions isn’t enough. You have to ask the right kind of questions. Here are some tips.**
+  - **If you want to hear a story, don’t ask someone to tell you a story. Ask her to tell you about something that happened:**
+  - If you’re selling high-speed Internet service, asking “Do you like your current Internet service?” won’t get you any stories. But if you ask “Have you ever noticed that your Internet slows down after dinner?” your prospect is likely to launch into a story about the last time that happened: “Oh yeah, it does! Last Monday night I had all the guys over for the football game. In the middle of the first quarter, it started to buffer every few seconds. It got so bad, we had to go to Jim’s house to finish the game. It was embarrassing for me, and Jim’s wife wasn’t too happy with us either . . .’
+  
+- **Ask About Something Personal in the Buyer’s Office**
+- **Get Buyers Away from the Office**
+- **Tell Your Stories First**
+    - If all else fails, lead by example. If you want to get buyers to tell personal stories about where they grew up, you tell a personal story about where you grew up. If you want them to tell a story about a problem they’re having with their computer, you tell a story about a problem you’re having with your computer. You know this works because it works on you. When people tell you a story, the most likely thing that’s running through your head is “Hey, something like that happened to me once,” and now you can’t wait to tell them about it. Just remember, when the buyer interrupts and starts telling you his story, refer back to tactic #1 above. Shut up and listen.
+## Execise
+1. **Create a list of questions to elicit the following stories from your buyers. In your next meeting, ask them for:**
+   1. Personal stories to help you get to know them better
+     1. Stories about the biggest problems they’re facing, so you can get a concrete idea of how you might help them
+   2. Stories about how their favorite suppliers became their favorite suppliers, so you can become the next one.
+2. **Draft planning notes for your next meeting to get your buyer to open up and tell you stories instead of facts. These notes should include:**
+   1. Shut up and listen. Leave some silent space in the conversation with room for the buyer to fill with a story.
+   2.  Require a story for an answer.
+       1.  Ask open-ended questions instead of short-answer or yes/no
+questions.
+        2. Ask about specific events in time (What happened last year when . . . ?”).
+          1. Use “problem prompts” (“Have you ever noticed that your Internet slows down after dinner?”).
+Ask “day in the life” questions (“Tell me what a typical day is like for one of your team members today? A year from now?”).
+3. Plan to get your buyer away from the office. Think of three specific opportunities to do that this year (for example, a market visit, a tour of retail stores or manufacturing plants, or attending a conference with you).
+4. Create a list of your own stories that demonstrate the three stories you want to hear from the buyer. Your buyer will respond to hearing your story by telling a similar one of her own:
+   1. Personal “get to know you” story 
+   2. “Biggest problem” story
+    3. “Favorite supplier (or customer)” story
