@@ -186,3 +186,100 @@ Ask “day in the life” questions (“Tell me what a typical day is like for o
    1. Personal “get to know you” story 
    2. “Biggest problem” story
     3. “Favorite supplier (or customer)” story
+
+## BUILDING RAPPORT
+  - Building trust and rapport with a potential
+buyer is usually the earliest objective a salesperson has and  storytelling is the quickest way to do that.
+### There are five of these stories you can, and should, have in your repertoire of stories to tell.
+
+**1. WHY I DO WHAT I DO” STORIES**
+  - People don’t buy what you do; they buy why you
+do it.
+  - What drew you to the profession or the company you work for?
+  
+**2. I’LL TELL YOU WHEN I CAN’T HELP YOU” STORIES**
+  - If you’re honest enough to tell buyers
+when your company is not well suited for a particular need they have, they’re
+more likely to believe you when you tell them you are the best solution.
+
+**3. I’LL TELL YOU WHEN I MADE A MISTAKE” STORIES**
+  - The second way to immediately earn trust and credibility with your buyer is to
+admit you made a mistake before the buyer hears about it from someone else. If
+you admit your own mistakes, they’re more likely to find out sooner when they
+have a problem
+
+**4. I’LL GO TO BAT FOR YOU WITH MY COMPANY”
+STORIES**
+
+**5. I’M NOT WHO YOU THINK I AM” STORIES**
+  - It helps get rid of negative
+preconceptions about you. 
+
+**6. STORIES ABOUT YOUR COMPANY**
+  - Once your buyers understand who you are and what you’re all about, they’ll
+want to know about the company you represent. Just like you, your company has
+a resume of facts. And just like you, your company should have stories for when
+you’re ready to get past the facts.
+    1. **Founding Stories:** `Backroads is the world’s #1 active travel company. We’ve been in business for 36 years since
+our CEO, Tom Hale, founded the company in 1979. From our first trips in California, today we
+operate in 48 countries around the world. Each year, our 500 leaders take more than 29,000 guests
+on at least 2,000 exciting trips.
+You could be hiking or biking or kayaking, but wherever you are, you won’t be bored. From our
+expert trip designers and engaging leaders to our skilled bike mechanics and stellar guest service
+team, quality is woven into the philosophy and fabric of our company. We call it guest focus, and
+we aim to be the most guest-focused company out there.`
+**Second story** `When our founder, Tom Hale, was a kid, he wasn’t much of a fan of mass tourism. You know,
+big theme parks where people are shuffled around in herds and stand in line for hours just for a
+three-minute ride. He felt like he was trapped in an artificial, sedentary environment with a bunch of
+strangers.
+Then when he grew up, his first job out of college was in a big office building in Las Vegas. Six
+months into it, he realized his job was a lot like those vacations he never liked as a kid: trapped in a
+huge artificial city, working long hours in the same spot, surrounded by lots of people he didn’t
+know.
+Then one night he woke up at 2 a.m. with an idea. And by 8 o’clock the next morning, he’d
+sketched out a plan for a more exciting career for himself, and a better vacation experience for
+everyone else. And that’s when Backroads was born.
+His idea was to thoughtfully plan out authentic, active, outdoor experiences, in naturally
+beautiful locations, in small groups that you help select. That way, whether you’re hiking, biking,
+kayaking, or something else, it’s never fake, you’ll never get bored, and you’ll always be among
+friends.`
+
+   ii. **“How We’re Different from Our Competitors” Stories:**  
+
+## Execise
+   1. Brainstorm ideas for these five stories about you.
+      1. Why I do what I do
+      2. I’ll tell you when I can’t help you” story. Think of a time you
+were honest enough to tell a buyer you’re not their best
+solution.
+      3. “I’ll tell you when I made a mistake” story. Think of a time
+when you made a mistake and owned up to it with the buyer
+before they heard about it from anyone else
+      4. I’ll go to bat for you” story
+      5. I’m not who you think I am” story. What negative
+preconceptions are your prospects likely to have about you?
+Make a list of them, along with an idea for a story to
+demonstrate that you actually possess the opposite quality
+2. Brainstorm ideas for these two stories about your company
+   1. Your company’s founding story. If you don’t already know it,
+interview your company’s founder, CEO, oldest employee, or
+corporate historian and find out
+    2. How we’re different from our competitors” story. Consider
+Sharad Madison’s story of walking the halls at Verizon to see
+how the cleaning was being done. What story could you tell to
+show how your product or service is unique?
+3. Identify promising topics or common interests to build stories around.
+   1. Check out your buyer’s LinkedIn profile for interest groups,
+education, previous employers, authored posts, companies
+followed, etc.
+    2. Try the Refresh app to get a common interest profile on all
+your prospects.
+    3. Make a note for your next visit to your buyers’ offices to look
+around for diplomas, pictures, and art, etc. Think of your own
+stories that relate to what you find.
+
+4. Find out what your buyer’s greatest fears are. (Getting fired? Not
+getting promoted? A poor performance rating?) Create a lasting bond
+by telling your own story surrounding that same fear
+
+## Stop at page 66.
