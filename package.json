@@ -5,7 +5,7 @@
   "main": "./js/main.js",
   "scripts": {
     "dev": "npx tailwindcss -i ./css/index.css -o ./dist/tailwind.css --watch",
-    "build-js": "npx esbuild js/main.js --outfile=dist/main.js --bundle --watch"
+    "build": "npx esbuild js/main.js --outfile=dist/main.js --bundle --watch"
   },
   "repository": {
     "type": "git",

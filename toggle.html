@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Toggle</title>
+</head>
+
+<body class="p-24 space-y-4">
+    <h1 class="text-3xl font-medium text-blue-500">Making of toggle</h1>
+    <div class="space-y-3" x-data="{open:true}">
+
+        <button @click="open = !open" class="px-5 py-2 text-white bg-blue-600 rounded-md">Toggle</button>
+
+        <ul x-show="open" class="p-4 bg-white rounded-lg shadow max-w-[300px] spacey-2">
+            <li class="">Name: Bowofade</li>
+            <li class="">Email: contact@bowofade.com</li>
+            <li class="">School: University of abuja</li>
+            <li class=""></li>
+            <li class=""></li>
+        </ul>
+    </div>
+</body>
+
+</html>
