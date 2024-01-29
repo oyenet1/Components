@@ -359,4 +359,72 @@ discomfort by` _Martins Meadow_
 
 `Self-discipline means living your life the hard way: resisting temptations
 and instant gratification, in order to receive bigger and better rewards in the
-future` _Dave Kekich_
+future`
+
+**Day 1**
+`On Living the Hard Way Life’s easy when you live it the hard way... and hard if you try to live it the
+easy way` _Dave Kekich_
+
+**Day 2**
+`On Your Choice s Your choices are made in a
+moment, but their consequences will transcend a
+lifetime.`
+_MJ DeMarco_
+
+- `Eat this greasy, high-calorie hamburger or prepare a healthy salad? Sleep in
+and barely get to work on time or wake up at 5 a.m. to work on your side
+business before going to work at your day job? Stop trying the moment you get
+rejected or swallow your pride and keep going, despite hearing “no” dozens of
+times? `
+
+**Day 3**
+`On Being a Human Willpower is what
+separates us from the animals. It’s the capacity to
+restrain our impulses, resist temptation — do what’s
+right and good for us in the long run, not what we
+want to do right now. It’s central, in fact, to
+civilization.`
+_Roy Baumeister_
+
+- ` Unfortunately, many people live by the principle of “if it feels good, do
+it, and if it doesn’t, don’t do it.”`
+
+**Day 4**
+` On Creating Systems I value self-discipline,
+but creating systems that make it next to impossible to
+misbehave is more reliable than self-control.`
+_Tim Ferriss_
+
+- `If you go to seedy bars every week, your chances of getting punched in the
+face are higher than those of a person spending their evenings at home with a
+book. Likewise, the best way to protect yourself against temptations is to avoid
+them — and for that, plain old preparation is more valuable than self-control.`
+
+**Day 5**
+`On Enslavement to Self. Before complaining that you are a slave to another, be sure that you are not
+a slave to self. Look within; you will find there, perchance, slavish thoughts,
+slavish desires, and in your daily life and conduct slavish habits. Conquer these;
+cease to be a slave to self, and no man will have the power to enslave you.`
+_James Allen_
+
+**Day 6**
+`On Superhumans.
+Life can be much broader once you discover one simple fact: Everything
+around you that you call life was made up by people that were no smarter than
+you and you can change it, you can influence it, you can build your own things
+that other people can use.`
+_Steve Jobs_
+
+**Day 7**
+`On Poverty and Self-Discipline
+A second line of research has shown that economic stress robs us of
+cognitive bandwidth. Worrying about bills, food or other problems, leaves less
+capacity to think ahead or to exert self-discipline. So, poverty imposes a mental
+tax.`
+_Nicholas Kristof_
+
+- `If you’re struggling with finances, make it one of your priorities to get out
+of debt as quickly as you can and build an emergency fund covering at least
+three to six months of basic living expenses. In addition to improving your
+financial health, it will dramatically reduce stress and strengthen your ability to
+delay gratification and make more optimal choices favoring your future.`
