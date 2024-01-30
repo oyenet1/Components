@@ -2,9 +2,9 @@
 
 ## Made with `TailwindCss` and `Alpinejs`
 
-### Motivational Quotes written with [`TailwindCss`](https://tailwindcss.com)
+# Motivational Quotes written with [`TailwindCss`](https://tailwindcss.com)
 
-## 1. Ziglar on Selling by _`Zig Ziglar`_
+## Book 1. Ziglar on Selling by _`Zig Ziglar`_
 
 - You were born to win. But to win please remember that “The Will to Win Is Nothing Without the Will to Prepare. **Zig Ziglar**
 - Selling is more than a
@@ -29,7 +29,7 @@
 - _The key is in understanding that when all is said and done, you must be able to answer the following question: `Are you happy, healthy, and
 reasonably prosperous and secure, and do you have friends, peace of mind, and good family relationships?` As you examine each of these areas, let me challenge you to look at your activities and daily tasks. Do the results of the tasks you are working on yield the results you are looking for? If not, why not? If not, what are you going to do about it? These are the questions individuals who would have their names on the doors of the executive suites of tomorrow must answer._
 
-## 2. Sell with a story by _`Paul Smith`_
+## Book 2. Sell with a story by _`Paul Smith`_
 
 _`But, as you can see in the picture, there’s not much more than cactus on the island for them to eat. And pigs don’t much like cactus. I guess in typical laid-back Bahamian fashion, the entrepreneur failed to plan that far ahead. So the pigs weren’t doing very well. But at some point, a restaurant owner on a nearby island started bringing his kitchen refuse by boat over to Big Major Cay and dumping it a few dozen yards off shore. The hungry pigs eventually learned to swim to get to the food. Each generation of pigs followed suit, and now all the pigs on the island can swim.`_
 
@@ -306,7 +306,7 @@ ii. **“How We’re Different from Our Competitors” Stories:**
 
 ## Stop at page 66.
 
-## 3. The art of War by _`Sun Tzu`_
+## Book 3. The art of War by _`Sun Tzu`_
 
 ### Chapter 1.
 
@@ -351,7 +351,7 @@ comparison, in this wise:
     6. On which side are officers and men more highly trained?
     7. In which army is there the greater constancy both in reward and punishment?
 
-## 4. 365 Days With Self-Discipline by _`Martins Meadow`_
+## Book 4. 365 Days With Self-Discipline by _`Martins Meadow`_
 
 `I believe
 that if a person wants to reach their full potential, he or she can’t avoid
@@ -428,3 +428,129 @@ of debt as quickly as you can and build an emergency fund covering at least
 three to six months of basic living expenses. In addition to improving your
 financial health, it will dramatically reduce stress and strengthen your ability to
 delay gratification and make more optimal choices favoring your future.`
+
+# Week 2
+
+**Day 8**
+`On Unessential Necessities Epicurus wanted to
+examine the things he thought he needed so he could
+determine which of them he could in fact live without.
+He realized that in many cases, we work hard to
+obtain something because we are convinced that we
+would be miserable without it. The problem is that we
+can live perfectly well without some of these things,
+but we won’t know which they are if we don’t try
+living without them.`
+_William B. Irvine_
+
+**Day 9**
+`In four studies, participants interacted with realistic computer renderings
+of their future selves using immersive virtual reality hardware and interactive
+decision aids. In all cases, those who interacted with virtual future selves
+exhibited an increased tendency to accept later monetary rewards over
+immediate ones.`
+_Hal E. Hershfield_
+
+- `The person you’ll become in ten years will most likely not be the same
+person you are today, but it will still be you — and it’s in your hands whether,
+ten years from now you’ll look back and feel glad you extended self-empathy
+well into the future, or find that you decided to be selfish and steal from your
+future for some fleeting pleasure today`.
+
+**Day 10**
+`Words create sentences; sentences create paragraphs; sometimes
+paragraphs quicken and begin to breathe.
+_Stephen King_`
+
+- `Building self-discipline is similar to writing a novel. You might consider a
+disciplined person who always wakes up at four in the morning, is physically
+active every day, eats a healthy diet, is super productive, and is capable of
+balancing it all with their social life and family obligations as a superhuman. But
+in reality, this person, like the bestselling novelist, probably started with one
+simple change and kept building on top of it`
+
+- `Whenever you get discouraged, or feel tired by how far you still have to go
+to accomplish your goals, remind yourself that everybody who has built selfdiscipline had to go through the same process — starting with little changes
+which then turned into habits, which then led to big lifestyle changes and
+identity shifts, and eventually, into successes`
+
+**Day 11**
+`On Self-Discipline and Talent
+Self-discipline without talent can often achieve astounding results, whereas
+talent without self-discipline inevitably dooms itself to failure.`
+_Sydney J. Harris_
+
+- `Next time, before you complain that you don’t have a talent for something
+or weren’t “born this way,” remind yourself that self-discipline, in many
+situations, can more than make up for a lack of inborn traits.`
+
+**Day 12**
+`On Calmness of Mind Calmness of mind is
+one of the beautiful jewels of wisdom. It is the result of
+long and patient effort in self-control. Its presence is
+an indication of ripened experience, and of a more
+than ordinary knowledge of the laws and operations
+of thought.`
+_James Allen_
+
+- `Such self-control feels like a superpower in today’s busy and fast-moving
+world, in which distractions lurk at every corner and buzz in every pocket. A
+person who’s capable of maintaining calmness of mind is a rare individual —
+but fortunately you can also become one, if you’re only willing to put in some
+effort.`
+- `The more often you put yourself in a meditative state, the calmer you’ll
+become in everyday situations. Cultivating calmness will lead to even more selfcontrol, and that will lead to an ever-heightening ability to control your state of
+mind and prevent emotions from clouding your judgment.`
+
+**Day 13**
+`On What You Want Now and What You
+Want Most Discipline is choosing between what you
+want now and what you want most`
+
+- `To achieve your long-term goals, make sure that the satisfaction you get
+from what you want most is always much stronger than the satisfaction you can
+get from what you want now.`
+
+**Day 14**
+`On Long-Term Focus
+In order to succeed, you must have a long-term focus. Most of the
+challenges in our lives come from a short-term focus.`
+_Tony Robbins_
+
+- `Analyze your goals and how you approach them. Replace short-termoriented behaviors with those that show that you’re in it for the long haul. Selfdiscipline isn’t limited to rejecting a cake or sticking to an exercise habit; you
+also need self-discipline to maintain a long-term focus in all of your endeavors`
+
+## Stoped at \*_Page 39_
+
+## Book 5. No Excuses!: The Power of Self-Discipline by _`Brian Tracy`_
+
+- `“There are a thousand excuses for failure but never a good reason.”
+—MARK TWAIN`
+- `I discovered that you can achieve almost any goal you set for yourself if you have the discipline to
+pay the price, to do what you need to do, and to never give up. —BRIAN TRACY`
+
+- `Perhaps the most important insight of all with regard to success is that to achieve greatly, you must
+become a different person. It is not the material things you accomplish or acquire that matter so much
+as it is the quality of the person you must become to accomplish well above the average —BRIAN TRACY`
+
+- `The
+development of self-discipline is the high road that makes everything possible for you. —BRIAN TRACY`
+
+- `‘Self-discipline is the ability to do what you should do, when you should do it,
+whether you feel like it or not.’” —ELBERT HUBBARD`
+- `“There are 999 other success principles that I have found in my reading and
+experience, but without self-discipline, none of them work. With self-discipline, they all work.”`
+- `Perhaps the two biggest enemies of success, happiness and personal fulfillment, are first the Path of
+Least Resistance and, second, the Expediency Factor`
+
+1. The Path of Least Resistance is what causes people to take the easy way in almost every situation.
+   They seek shortcuts to everything. `They arrive at work at the last minute and leave at the first
+opportunity. They look for get-rich-quick schemes and easy money. Over time, they develop the habit
+of always seeking an easier, faster way to get the things they want rather than doing what is hard but
+necessary to achieve real success.`
+2. The Expediency Factor, which is an extension of the law of least resistance, is even worse when
+   leading people to failure and underachievement. This principle says, `“People invariably seek the
+fastest and easiest way to get the things they want, right now, with little or no concern for the longterm consequences of their behaviors.”` In other words, most people do what is expedient, what is fun
+   and easy rather than what is necessary for success
+
+## stop at pag 16
